@@ -1,6 +1,6 @@
     # Doctor Appointment Booking System
 
-## 📌 Description
+## Description
 This is a full-stack web application developed using Node.js, Express, and MongoDB.
 
 It allows users to:
@@ -9,20 +9,20 @@ It allows users to:
 - Check availability
 - Cancel bookings
 
-## 🚀 Features
+## Features
 - REST API using Express.js
 - MongoDB database integration
 - Slot conflict detection
 - Responsive frontend UI
 - Appointment confirmation system
 
-## 🛠 Tech Stack
+## Tech Stack
 - Node.js
 - Express.js
 - MongoDB
 - HTML, CSS, JavaScript
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repo:
    git clone https://github.com/your-username/assignment-6.git
@@ -39,8 +39,8 @@ It allows users to:
 5. Open browser:
    http://localhost:3000
 
-## 📷 Screenshots
+## Screenshots
 ![alt text](Homepage-1.png) ![alt text](Homepage-2.png) ![alt text](Bookings.png) ![alt text](Appointments.png) ![alt text](Confirmation.png)  
-## 📚 Assignment Info
+## Assignment Info
 Full Stack Development Lab Assignment 6  
 PCCOE  
