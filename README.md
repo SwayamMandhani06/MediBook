@@ -40,7 +40,7 @@ It allows users to:
    http://localhost:3000
 
 ## Screenshots
-![alt text](Homepage-1.png) ![alt text](Homepage-2.png) ![alt text](Bookings.png) ![alt text](Appointments.png) ![alt text](Confirmation.png)  
+![alt text](Screenshots/Homepage-1.png) ![alt text](Screenshots/Homepage-2.png) ![alt text](Screenshots/Bookings.png) ![alt text](Screenshots/Appointments.png) ![alt text](Screenshots/Confirmation.png)  
 ## Assignment Info
 Full Stack Development Lab Assignment 6  
 PCCOE  
