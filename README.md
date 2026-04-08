@@ -1,4 +1,4 @@
-    # Doctor Appointment Booking System
+# Doctor Appointment Booking System
 
 ## Description
 This is a full-stack web application developed using Node.js, Express, and MongoDB.
