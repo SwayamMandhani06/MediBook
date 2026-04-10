@@ -25,7 +25,7 @@ It allows users to:
 ## How to Run
 
 1. Clone the repo:
-   git clone https://github.com/your-username/assignment-6.git
+   git clone https://github.com/SwayamMandhani06/MediBook.git
 
 2. Install dependencies:
    npm install
